@@ -3,7 +3,7 @@ Above you may find the PDF file of my Master's degree dissertation (Supervised b
 
 This project involved creating a simulation environment, observing and analyzing how different dispatching protocols (or dispatching algorithms) can have an effect on the overall performance of the system.
 
-The successful completion of the dissertation is a strict requiqurement for the award of Master of Science (*MSc*) and it took roughly less than 4 months to complete. The project was composed in LaTeX (Overleaf) which is a cloud text writing and document editing platform for scientific document writing.
+The successful completion of the dissertation is a strict requiqurement for the award of Master of Science (*MSc*) and it took roughly less than 4 months to complete. The project was composed in *LaTeX (Overleaf)* which is a cloud text writing and document editing platform for scientific document writing.
 
 If you have any questions, feel free to reach me at: cong.ngnt@gmail.com
 
